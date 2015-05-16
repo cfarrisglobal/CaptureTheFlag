@@ -1,11 +1,13 @@
 By: Nicolas Herrera & Charles Farris
 
+Agent created nsh100020Agent
+
 *************************************************************
 
 To run in its current state move to the directory containing 
 the ctf folder. Then execute the command
 
-java -cp . ctf.environment.TestPlaySurface
+java -cp . ctf/environment/TestPlaySurface
 
 *************************************************************
 
